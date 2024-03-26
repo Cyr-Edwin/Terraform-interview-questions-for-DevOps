@@ -1,4 +1,4 @@
-# Terraform interview questions or DevOps
+# Terraform interview questions for DevOps
 
 1 - **What is Terraform?**
 
@@ -13,6 +13,6 @@ The two key components of Terraform are: Terraform core and Terraform pluggins
 
   - Terraform core : monitors the reading and interpolation of configuration files, resource plan executions, state management features, and resource graphs
 
-  - Terraform pluggins: define resources for specific services, including initializing the libraries used to make API calls and authenticating infrastructure providers.
+  - Terraform pluggins: define resources for specific services, including initializing the libraries used to make API calls and authenticating infrastructure providers
 
   ---
